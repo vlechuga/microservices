@@ -9,34 +9,7 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd74b37c-8bf3-4510-904c-cd65de06d347" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/customer-service/src/main/resources/oldApplication.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/product-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/product-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/ServiceProductApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/entity/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/entity/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/exceptions/GlobalExceptionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/exceptions/GlobalExceptionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/exceptions/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/exceptions/NotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/repository/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/serviceproduct/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/service/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/com/example/serviceproduct/ProductRepositoryMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/com/example/productservice/ProductRepositoryMockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/com/example/serviceproduct/ProductServiceMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/com/example/productservice/ProductServiceMockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/com/example/serviceproduct/ServiceProductApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/com/example/productservice/ServiceProductApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/com/example/shoppingservice/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/example/shoppingservice/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/com/example/shoppingservice/exceptions/GlobalExceptionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/example/shoppingservice/exceptions/GlobalExceptionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/com/example/shoppingservice/exceptions/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/example/shoppingservice/exceptions/NotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping-service/src/main/java/com/example/shoppingservice/service/InvoiceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-service/src/main/java/com/example/shoppingservice/service/InvoiceServiceImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="fd74b37c-8bf3-4510-904c-cd65de06d347" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,8 +103,19 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
+    <option name="hiddenConfigurations">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <set>
+              <option value="ConfigServiceApplication" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigServiceApplication">
+  <component name="RunManager" selected="Spring Boot.ProductServiceApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -269,7 +253,7 @@
       <workItem from="1660694249979" duration="3866000" />
       <workItem from="1660698292707" duration="4480000" />
       <workItem from="1660765038803" duration="16000" />
-      <workItem from="1661718139448" duration="12500000" />
+      <workItem from="1661718139448" duration="12821000" />
     </task>
     <servers />
   </component>
