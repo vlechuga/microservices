@@ -1,8 +1,8 @@
-package com.example.serviceproduct.service;
+package com.example.productservice.service;
 
-import com.example.serviceproduct.entity.Category;
-import com.example.serviceproduct.entity.Product;
-import com.example.serviceproduct.exceptions.NotFoundException;
+import com.example.productservice.entity.Category;
+import com.example.productservice.entity.Product;
+import com.example.productservice.exceptions.NotFoundException;
 
 import java.util.List;
 

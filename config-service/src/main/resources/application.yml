@@ -5,10 +5,11 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/vlechuga/microservices.git
           search-paths: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
+          default-label: "master"
   security:
     user:
       name: root

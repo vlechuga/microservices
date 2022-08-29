@@ -1,9 +1,9 @@
-package com.example.serviceproduct.controller;
+package com.example.productservice.controller;
 
-import com.example.serviceproduct.entity.Category;
-import com.example.serviceproduct.entity.Product;
-import com.example.serviceproduct.exceptions.NotFoundException;
-import com.example.serviceproduct.service.ProductService;
+import com.example.productservice.entity.Category;
+import com.example.productservice.entity.Product;
+import com.example.productservice.exceptions.NotFoundException;
+import com.example.productservice.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

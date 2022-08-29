@@ -1,8 +1,8 @@
-package com.example.serviceproduct;
+package com.example.productservice;
 
-import com.example.serviceproduct.entity.Category;
-import com.example.serviceproduct.entity.Product;
-import com.example.serviceproduct.repository.ProductRepository;
+import com.example.productservice.entity.Category;
+import com.example.productservice.entity.Product;
+import com.example.productservice.repository.ProductRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

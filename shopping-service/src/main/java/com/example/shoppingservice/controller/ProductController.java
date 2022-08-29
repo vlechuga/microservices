@@ -1,7 +1,7 @@
-package com.example.serviceproduct.controller;
+package com.example.productservice.controller;
 
-import com.example.serviceproduct.exceptions.NotFoundException;
-import com.example.serviceproduct.service.InvoiceService;
+import com.example.productservice.exceptions.NotFoundException;
+import com.example.productservice.service.InvoiceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

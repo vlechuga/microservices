@@ -1,9 +1,9 @@
-package com.example.serviceproduct.service;
+package com.example.productservice.service;
 
-import com.example.serviceproduct.entity.Category;
-import com.example.serviceproduct.entity.Product;
-import com.example.serviceproduct.exceptions.NotFoundException;
-import com.example.serviceproduct.repository.ProductRepository;
+import com.example.productservice.entity.Category;
+import com.example.productservice.entity.Product;
+import com.example.productservice.exceptions.NotFoundException;
+import com.example.productservice.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
